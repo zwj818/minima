@@ -1,4 +1,4 @@
-title: zzz001
+title: zzz002
 author:
   name: GitHub User
   email: your-email@domain.com
@@ -54,7 +54,7 @@ minima:
 header_pages:
   - about.md
   - README.md
-  - History.markdown
+  - zzz.md
 
 
 # Set to `true` to show excerpts on the homepage.
