@@ -1,14 +1,12 @@
-title: zzz002
+title: 渐冻症中医研究
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: 研究小组
+  email: yx818@sina.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
+  渐冻症目前还没有什么可以治愈的药，国内外最近今年在加紧，中医有一些案例，但还缺少说服力，希望有一个好的模式来推动人类疾病的研究.
 
 # Build settings
 
@@ -52,9 +50,9 @@ minima:
 #
 
 header_pages:
-  - about.md
   - z01.md
-  - zzz.md
+  - z02.md
+  - z03.md
 
 
 # Set to `true` to show excerpts on the homepage.
