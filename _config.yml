@@ -53,7 +53,7 @@ minima:
 
 header_pages:
   - about.md
-  - README.md
+  - z01.md
   - zzz.md
 
 
