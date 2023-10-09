@@ -6,7 +6,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  渐冻症目前还没有什么可以治愈的药，国内外最近今年在加紧，中医有一些案例，但还缺少说服力，希望有一个好的模式来推动人类疾病的研究.
+  渐冻症是世界五大绝症之一，中医是世界瑰宝，希望有一个好的模式来推动中医治疗渐冻症.
 
 # Build settings
 
@@ -19,7 +19,6 @@ plugins:
 # Theme-specific settings
 
 minima:
-
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
