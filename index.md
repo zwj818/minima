@@ -1,9 +1,47 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
-layout: home
+layout: page
+title: 渐冻症中医信息库
+permalink: /z02/
 ---
+
+这是一个新的模式，需要一个新的平台。
+
+### 1.医生找病人模式介绍
+
+这是一个创新的治疗模式，传统的治疗模式是病人找医生，有“医不抠门”一说，但是对于疑难杂症来说，医生找病人是更好的模式。
+
+在众多病人中，某个医生也许只对某几个病人有把握，我们的目的是搭建这个平台，来降低发现成本。
+
+实际是病人医生双向选择，但更突出医生的主动性，所以我们姑且称之为医生找病人模式。
+
+<br>   
+
+众多病人提交自己的情况到平台 ==》 平台 ==> 中医大夫从平台选择自己有把我的病人。
+
+<br>   
+
+图示如下：
+![医生找病人模式图]( {{ site.url }}/media/als-arc.png "医生找病人模式图")
+
+
+
+### 2.患者或家属要做什么
+
+对于有需求的患者或者家属，请打开链接，提交问诊单：
+[http://yinanzazheng.mikecrm.com/hPt98UO](http://yinanzazheng.mikecrm.com/hPt98UO)
+
+
+### 3.平台做什么
+
+我们会对提交的“中医渐冻症信息库”进行整理，方便大夫查看，
+
+我们将寻找相关有资质的中医大夫，请他们仔细查看“中医渐冻症信息库”，寻找自己有把握的患者，从而撮合双方信息，这样更容易起到效果。
+
+### 4.中医大夫要做什么
+在中医的眼里，没有渐冻症，更多的是五行、六经、气血津液、痰饮水湿等等，医生将在平台的帮助下，找症状比较符合自己经验的病人。
+
+
+<br/>
+
+
+
