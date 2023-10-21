@@ -52,7 +52,7 @@ minima:
 
 header_pages:
   - z01.md
-  - z02.md
+#  - z02.md
   - z03.md
   - z04.md
 
