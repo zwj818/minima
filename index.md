@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 渐冻症中医信息库
-permalink: /z02/
+# title: 渐冻症中医信息库
+# permalink: /z02/
 ---
 
 这是一个新的模式，需要一个新的平台。
